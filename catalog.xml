@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/maffl/Documents/NetBeansProjects/WS_Calculator/history_schema.xsd" uri="src/main/resources/jaxb/history/history_schema.xsd"/>
+</catalog>
