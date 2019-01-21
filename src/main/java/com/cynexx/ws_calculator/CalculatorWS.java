@@ -31,7 +31,7 @@ import javax.xml.ws.handler.MessageContext;
 
 /**
  *
- * @author maffl
+ * @author CyNEXX
  */
 @WebService(serviceName = "CalculatorWS")
 @Stateless()
